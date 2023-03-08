@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Felippe Pessoa
 
-- 🔭 Hoje trabalho como Front-end
+- 🔭 Hoje atuo como Front-end
 - 🌱 Estudando Bacharelado em Ciencia da computação...
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block"><br>
