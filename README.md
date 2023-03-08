@@ -3,7 +3,7 @@ Sou o Felippe Pessoa 👋
 Programador e Criador apaixonado por tecnologia!
 --------------------
 
-- 🔭 Hoje atuo como Front-end
+- 🌍 Hoje atuo como Front-end
 - 🌱 Estudando Bacharelado em Ciencia da computação...
 - 😄 Pronouns: ele/dele
 
